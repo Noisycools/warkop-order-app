@@ -1,6 +1,6 @@
-# warkop_order_app
+![Title](./images/title.png)
 
-A new Flutter project.
+Warkop Order App is a indonesian based drink & food order application created using Flutter. This is UI only (Backend not included).
 
 ## Getting Started
 
