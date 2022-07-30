@@ -14,3 +14,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## References
+
+- Design
+(https://dribbble.com/shots/18744192-Coffee-Delivery-App-Design)
+
+- Menu Warkop
+(https://pergikuliner.com/restaurants/warkop-mumu-wonocolo/menus)
+(https://pontianak.tribunnews.com/2019/02/07/menu-di-warkop-gajahmada-putussibau-bikin-ngantuk-hilang)
